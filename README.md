@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">Words</h1>
-O projeto a seguir foi desenvolvido com o intuito de apresentar alguns conceitos novos a ser utilizado, adicionando uma Intent e uma Activity para mostrar a lista de palavras de cada letra e buscar seu nome no navegador
+O projeto a seguir foi desenvolvido com o intuito de apresentar alguns conceitos novos a ser utilizado, adicionando uma Intent e uma Activity para mostrar a lista de palavras de cada letra e buscar seu nome no navegador.
 
 ## 🖼️ | Imagens de protótipo
 <div  align="center">
